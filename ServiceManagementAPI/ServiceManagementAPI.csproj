@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiceManagementBL\ServiceManagementBL.csproj" />
+    <ProjectReference Include="..\ServiceManagementDAL\ServiceManagementDAL.csproj" />
+    <ProjectReference Include="..\ServiceManagementModels\ServiceManagementModels.csproj" />
+    <ProjectReference Include="..\ServiceManagementUtility\ServiceManagementUtility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Responses\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementDAL.deps.json
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementDAL.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ref\ServiceManagementDAL.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementDAL.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementModels.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementUtility.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementModels.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\bin\Debug\net6.0\ServiceManagementUtility.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.csproj.CopyComplete
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ref\ServiceManagementDAL.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementDAL\obj\Debug\net6.0\ServiceManagementDAL.pdb

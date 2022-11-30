@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\bin\Debug\net6.0\ServiceManagementUtility.deps.json
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\bin\Debug\net6.0\ServiceManagementUtility.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\bin\Debug\net6.0\ref\ServiceManagementUtility.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\bin\Debug\net6.0\ServiceManagementUtility.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.AssemblyInfo.cs
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ref\ServiceManagementUtility.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementUtility\obj\Debug\net6.0\ServiceManagementUtility.csproj.AssemblyReference.cache

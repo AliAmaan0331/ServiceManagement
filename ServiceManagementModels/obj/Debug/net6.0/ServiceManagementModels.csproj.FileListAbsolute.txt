@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\bin\Debug\net6.0\ServiceManagementModels.deps.json
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\bin\Debug\net6.0\ServiceManagementModels.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\bin\Debug\net6.0\ref\ServiceManagementModels.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\bin\Debug\net6.0\ServiceManagementModels.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\bin\Debug\net6.0\ServiceManagementUtility.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\bin\Debug\net6.0\ServiceManagementUtility.pdb
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.AssemblyInfo.cs
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.csproj.CopyComplete
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ref\ServiceManagementModels.dll
+C:\Users\HP\source\repos\ServiceManagementProject\ServiceManagementModels\obj\Debug\net6.0\ServiceManagementModels.pdb

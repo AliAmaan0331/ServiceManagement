@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementBL\\ServiceManagementBL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementBL\\ServiceManagementBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementBL\\ServiceManagementBL.csproj",
+        "projectName": "ServiceManagementBL",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementBL\\ServiceManagementBL.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementDAL\\ServiceManagementDAL.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementDAL\\ServiceManagementDAL.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementDAL\\ServiceManagementDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementDAL\\ServiceManagementDAL.csproj",
+        "projectName": "ServiceManagementDAL",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementDAL\\ServiceManagementDAL.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj",
+        "projectName": "ServiceManagementModels",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\ServiceManagementModels.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj",
+        "projectName": "ServiceManagementUtility",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\ServiceManagementUtility.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\ServiceManagementProject\\ServiceManagementUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
